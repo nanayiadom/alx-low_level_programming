@@ -1,11 +1,11 @@
 #include<stdio.h>
 /**
  * main - Entry point
- * Return : always 0
- */
+ * Return: Always 0
+ **/
 int main(void)
 {
-	_putchar("-");
+	_putchar("_");
 	_putchar("p");
 	_putchar("u");
 	_putchar("t");
