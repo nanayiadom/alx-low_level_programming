@@ -2,7 +2,7 @@
 /**
  * print_numbers - prints all numbers
  *
- * return:always 0
+ * return: void
  */
 
 void print_numbers(void);
@@ -14,5 +14,4 @@ void print_numbers(void);
 		_putchar(c);
 	}
 	_putchar(c);
-	return (0);
 }
